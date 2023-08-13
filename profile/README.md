@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Logo" src="https://github.com/tumuzhineng/.github/blob/main/profile/logo1.png", width = "600";></p>
+<p align="center"> <img alt="Logo" src="https://github.com/tumuzhineng/.github/blob/main/profile/logo.png", width = "600";></p>
 
 # 简介
 

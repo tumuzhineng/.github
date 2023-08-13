@@ -2,7 +2,11 @@
 
 # 简介
 
-图慕智能是一家从事自动驾驶底层软件开发的公司
+$\qquad$ 苏州市图慕智能科技有限公司（图慕智能）是一家从事自动驾驶算法研究和底层软件开发的公司。
 
 # 项目
+
+1. <a href="https://github.com/tum-autonomousdriving/autonomous-driving-simulator">自动驾驶模拟器</a>
+
+2. <a href="https://github.com/tum-autonomousdriving/unified-driving">自动驾驶开源框架</a>
 
